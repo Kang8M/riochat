@@ -1,0 +1,23 @@
+{
+  "name": "riochat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kang8M/riochat.git"
+  },
+  "author": "hunglm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kang8M/riochat/issues"
+  },
+  "homepage": "https://github.com/Kang8M/riochat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase": "^8.2.4"
+  }
+}
